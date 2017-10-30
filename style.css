@@ -1,0 +1,52 @@
+.mainHeader {
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+}
+
+#inp {
+    background-color: #e3eaa7;
+}
+
+#todoid {
+    width: 30px;
+    background-color: #e3eaa7;
+}
+
+#edit {
+    background-color: #e3eaa7;
+}
+
+#completebtn {
+    margin-left: 40px;
+}
+
+#deletebtn {
+    margin-left: 2px;
+}
+
+#activetodos {
+    width: 600px;
+    border: 2px solid black;
+    padding: 15px;
+    margin: 5px;
+    background-color: #e3eaa7;
+}
+
+#completedtodos {
+    width: 600px;
+    border: 2px solid black;
+    padding: 15px;
+    margin: 5px;
+    background-color: #e3eaa7;
+}
+
+#deletedtodos {
+    width: 600px;
+    border: 2px solid black;
+    padding: 15px;
+    margin: 5px;
+    background-color: #e3eaa7;
+}
